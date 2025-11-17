@@ -14,20 +14,20 @@
 # With Feedback:
 <img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
 
-![WhatsApp Image 2025-11-09 at 18 58 19_1106eab7](https://github.com/user-attachments/assets/b769deea-5cae-44cc-8b8e-3da925ff1d96)
+![WhatsApp Image 2025-11-17 at 09 11 37_dddb1d2c](https://github.com/user-attachments/assets/73d6068e-2fa0-4389-baac-87d4d42a8418)
 
 
 # Tabulation
 
-![WhatsApp Image 2025-11-09 at 18 58 19_5902638c](https://github.com/user-attachments/assets/f04c5177-a11a-45a4-b840-dab4b6cc1960)
+![WhatsApp Image 2025-11-17 at 09 11 38_0d873ed2](https://github.com/user-attachments/assets/0a97223c-d3be-49c5-9d2c-5f7a6e96ff2e)
 
 
 # Graph
+![WhatsApp Image 2025-11-17 at 09 11 39_b806ea1b](https://github.com/user-attachments/assets/29350a67-6215-4aec-80b6-497f36e7b663)
 
-![WhatsApp Image 2025-11-09 at 18 58 20_d5a5c59b](https://github.com/user-attachments/assets/1bfe7163-ead7-4092-8f38-d87a628d9973)
 
 # Sample images 
-![WhatsApp Image 2025-11-09 at 18 58 43_ec7e6522](https://github.com/user-attachments/assets/e5fd071c-845d-4f3a-a7f2-278993268006)
+![WhatsApp Image 2025-11-17 at 09 09 32_9ebd713c](https://github.com/user-attachments/assets/d9837313-d675-4fde-9d59-f2104da2cce8)
 
 
 ### **Result**
