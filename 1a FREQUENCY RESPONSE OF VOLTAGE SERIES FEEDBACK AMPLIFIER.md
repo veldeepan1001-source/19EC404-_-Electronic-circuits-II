@@ -44,7 +44,6 @@ The following parameters are calculated:
 **Conclusion:**  
 The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
 
----
 
 
 **End of Experiment**
