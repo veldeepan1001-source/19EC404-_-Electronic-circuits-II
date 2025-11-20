@@ -34,5 +34,5 @@
 
 Thus, the **COLPITTS OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency: 50HZ**  
-- **(ii) Practical Frequency: 50.07HZ**  
+- **(i) Theoretical Frequency: 106.73HZ**  
+- **(ii) Practical Frequency: 118.2kHZ**  
