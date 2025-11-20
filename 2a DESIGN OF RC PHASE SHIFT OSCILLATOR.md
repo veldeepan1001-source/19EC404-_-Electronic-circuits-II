@@ -1,5 +1,5 @@
 ## Exp. No. 2(a)
-**Date:**  
+**Date: 8/9/2025**  
 
 ## DESIGN OF RC PHASE SHIFT OSCILLATOR
 <img width="482" height="638" alt="image" src="https://github.com/user-attachments/assets/d7a08edc-71f1-467d-9e20-747bdeee319d" />
@@ -11,17 +11,29 @@
 # Circuit Diagram 
 <img width="486" height="409" alt="image" src="https://github.com/user-attachments/assets/70da1bde-cdfe-4270-bd1d-c82fbc1bffd3" />
 
+![WhatsApp Image 2025-11-20 at 19 45 51_5f20f4aa](https://github.com/user-attachments/assets/af9f92e5-046b-4cf2-be28-cd04ee2ee31e)
+
+
+
 
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|   5.20V         |   1ms           |       952.2HZ               |       1000HZ                 |
+
+# Calculations 
+![WhatsApp Image 2025-11-20 at 19 45 51_e2cbdf6b](https://github.com/user-attachments/assets/6ec8e85b-0aeb-4063-872f-0d2afcb295e7)
+
 
 # Graph
+
+![WhatsApp Image 2025-11-20 at 19 45 51_c8a9e626](https://github.com/user-attachments/assets/97a9db4d-867c-493c-8f20-c276e7ad3e39)
 
 
 
 # Sample images 
+![WhatsApp Image 2025-11-09 at 19 36 04_4a718e4b](https://github.com/user-attachments/assets/04f7fd14-ba76-497b-8382-4c5f92e24b39)
+
 
 
 
@@ -29,5 +41,5 @@
 
 Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency: 1000HZ**  
+- **(ii) Practical Frequency: 952.2HZ**  
